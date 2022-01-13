@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/msc/hybrid/HybridApp.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/msc/hybrid/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/msc/hybrid/SplashActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/msc/hybrid/WebAppInterface.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/msc/hybrid/common/BaseActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/msc/hybrid/common/BaseWebChromClient.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/msc/hybrid/common/BaseWebView.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/msc/hybrid/common/BaseWebViewClient.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/msc/hybrid/push/FirebaseMessagingService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/msc/hybrid/push/MyFirebaseMessagingService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/msc/hybrid/ui/BaseActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/msc/hybrid/ui/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/msc/hybrid/ui/SplashActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/msc/hybridapp/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values-v23/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../KotlinHumanCoding/app/src/main/java/com/msc/kotlinhumancoding/Cast.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../KotlinHumanCoding/app/src/main/java/com/msc/kotlinhumancoding/NullSafety.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Sub/ui-mobile-android/nsmall_android/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Sub/ui-mobile-android/nsmall_android/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Sub/ui-mobile-android/nsmall_android/app/src/main/java/com/nsmobilehub/NsApp.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Sub/ui-mobile-android/nsmall_android/app/src/main/java/com/nsmobilehub/WebAppInterface.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Sub/ui-mobile-android/nsmall_android/app/src/main/java/com/nsmobilehub/ui/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Sub/ui-mobile-android/nsmall_android/app/src/main/java/com/nsmobilehub/ui/SplashActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Sub/ui-mobile-android/nsmall_android/app/src/main/java/com/nsmobilehub/ui/WebFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Sub/ui-mobile-android/nsmall_android/app/src/main/java/com/nsmobilehub/ui/home/adapter/HomeASearchWordSelectAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Sub/ui-mobile-android/nsmall_android/app/src/main/java/com/nsmobilehub/ui/home/adapter/HomeASlideAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Sub/ui-mobile-android/nsmall_android/app/src/main/java/com/nsmobilehub/ui/slotstore/adapters/holders/CNTNTPRDSLIDEHolder.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Sub/ui-mobile-android/nsmall_android/app/src/main/java/com/nsmobilehub/ui/slotstore/adapters/holders/PRDSLIDESQUARE25WHolder.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Sub/ui-mobile-android/nsmall_android/app/src/main/java/com/nsmobilehub/ui/slotstore/fragments/SlotStoreFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Sub/ui-mobile-android/nsmall_android/app/src/main/java/com/nsmobilehub/ui/toast/ToastHelper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Sub/ui-mobile-android/nsmall_android/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Sub/ui-mobile-android/nsmall_android/app/src/main/res/layout/item_holder_slot_cntnt_prm.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Sub/ui-mobile-android/nsmall_android/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
