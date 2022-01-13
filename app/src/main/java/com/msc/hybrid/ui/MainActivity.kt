@@ -10,6 +10,7 @@ import com.msc.hybrid.R
 import com.msc.hybrid.common.BaseWebChromClient
 import com.msc.hybrid.common.BaseWebView
 import com.msc.hybrid.common.BaseWebViewClient
+import com.msc.hybrid.util.ConstwebUrl
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlin.system.exitProcess
 
@@ -31,7 +32,7 @@ class MainActivity : AppCompatActivity() {
 
         webview_main.webViewClient = BaseWebViewClient()
         webview_main.webChromeClient = BaseWebChromClient()
-        webview_main.loadUrl("https://ksai.kr/")
+        webview_main.loadUrl(ConstwebUrl)
 
         var exsettings = webview_main.settings
         with(exsettings) {

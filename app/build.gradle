@@ -6,7 +6,6 @@ apply plugin: 'com.google.gms.google-services'
 android {
     compileSdkVersion 31
     buildToolsVersion "29.0.3"
-
     defaultConfig {
         applicationId "com.msc.hybrid"
         minSdkVersion 19
@@ -17,19 +16,47 @@ android {
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
-
-    buildTypes {
-        release {
-            minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
-        }
-    }
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
     kotlinOptions {
         jvmTarget = '1.8'
+    }
+    signingConfigs {
+        release {
+            keyAlias 'hybrid'
+            keyPassword 'chldmsdn0607'
+            storeFile file("$rootProject.projectDir/keystore/hybrid.keystore")
+            storePassword 'chldmsdn0607'
+        }
+    }
+    buildTypes {
+        debug {
+            minifyEnabled false
+            debuggable true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            testCoverageEnabled = false
+            signingConfig signingConfigs.release
+        }
+        release {
+            minifyEnabled true
+            debuggable false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            testCoverageEnabled = false
+            signingConfig signingConfigs.release
+        }
+    }
+    flavorDimensions "defalut"
+    productFlavors {
+        dev {
+            applicationId "com.msc.hybrid"
+            buildConfigField 'boolean', 'isPrd', "false"
+        }
+        prd {
+            applicationId "com.msc.hybrid"
+            buildConfigField 'boolean', 'isPrd', "true"
+        }
     }
 }
 
